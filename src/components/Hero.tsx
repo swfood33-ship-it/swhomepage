@@ -125,10 +125,10 @@ export default function Hero() {
 
             <div className="relative z-20 container mx-auto px-4 text-center">
                 <div className="overflow-hidden mb-6">
-                    <h1 ref={headlineRef} className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight transform translate-y-full tracking-tight">
-                        신선식재는 <span className="text-brand-yellow">직접 사입</span>으로,<br className="hidden md:block" />
-                        단가는 <span className="text-brand-yellow">투명 공개</span>로.
-                    </h1>
+                <h1    ref={headlineRef}    className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight transform translate-y-full tracking-tight text-white">
+                 20년 신뢰의 이름,<br />
+                 식자재 유통의 <span className="text-brand-yellow font-bold">표준</span>을 세우다.
+                </h1>
                 </div>
                 <div ref={subRef} className="space-y-8">
                     <p className="text-lg md:text-xl text-gray-200 font-light leading-relaxed">
