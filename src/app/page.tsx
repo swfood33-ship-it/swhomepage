@@ -28,22 +28,24 @@ export default function Home() {
     <div className="flex flex-col w-full">
       <Hero />
       <PartnerMarquee />
-      <ClientGrid />
-      <Testimonials />
-      <PricingPolicy />
-      <DiagnosisHighlight />
       <Problem />
-      <PriceDisclosureHighlight />
       <Solution />
-      <Numbers />
+      <TeamGallery />
+      <PriceDisclosureHighlight />
       <ProductGrid />
       <Cases />
-      <ManagerSection />
-      <TeamGallery />
+      <DiagnosisHighlight />
       <DeliveryTimeline />
+      <Testimonials />
       <ContactForm />
       <FAQ />
-      <BlogSection />
+      {/* <ClientGrid /> */}
+      {/* <PricingPolicy /> */}
+      {/* <Numbers /> */}
+      {/* <Cases /> */}
+      {/* <ManagerSection /> */}
+      {/* <TeamGallery /> */}
+      {/* <BlogSection /> */}
     </div>
   );
 }

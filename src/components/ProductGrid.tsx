@@ -5,12 +5,12 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 const products = [
-    { name: '농산물', desc: '가락시장 경매 직송', color: 'bg-green-100', image: '/images/product_agriculture.png' },
-    { name: '쌀/잡곡', desc: '도정 7일 이내', color: 'bg-yellow-100', image: '/images/product_rice.png' },
-    { name: '공산품', desc: '대용량 최저가', color: 'bg-blue-100', image: '/images/product_industrial.png' },
-    { name: '냉동/냉장', desc: '콜드체인 안심배송', color: 'bg-sky-100', image: '/images/product_frozen_cold_chain.png' },
-    { name: '김치/절임', desc: 'HACCP 인증 시설', color: 'bg-red-100', image: '/images/product_kimchi_pickled.png' },
-    { name: '장류/용기', desc: '업소용 대용량', color: 'bg-orange-100', image: '/images/product_sauces_containers.png' },
+    { name: '농산물·야채', desc: '매일 새벽 가락시장 직매입', color: 'bg-green-100', image: '/images/product_agriculture.png' },
+    { name: '쌀·잡곡', desc: '도정일 7일 이내 프리미엄 쌀', color: 'bg-yellow-100', image: '/images/product_rice.png' },
+    { name: '공산품', desc: '대형 제조사 직거래 공급', color: 'bg-blue-100', image: '/images/product_industrial.png' },
+    { name: '냉동/냉장', desc: '철저한 콜드체인 관리', color: 'bg-sky-100', image: '/images/product_frozen_cold_chain.png' },
+    { name: '김치·절임류', desc: 'HACCP 인증 국산 김치', color: 'bg-red-100', image: '/images/product_kimchi_pickled.png' },
+    { name: '장류/소스류', desc: '업소용 대용량 최저가', color: 'bg-orange-100', image: '/images/product_sauces_containers.png' },
 ];
 
 export default function ProductGrid() {
@@ -44,10 +44,10 @@ export default function ProductGrid() {
             <div className="container mx-auto px-4">
                 <div className="text-center mb-16">
                     <h2 className="text-3xl md:text-4xl font-bold text-brand-gray-900 mb-4">
-                        취급 품목
+                        취급 품목 카테고리
                     </h2>
                     <p className="text-gray-600">
-                        식당 운영에 필요한 2,000여 가지 식자재를 한 번에 만나보세요.
+                        3,000여 가지 식자재를 원스톱으로 공급합니다.
                     </p>
                 </div>
 

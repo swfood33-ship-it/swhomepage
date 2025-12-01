@@ -125,28 +125,41 @@ export default function Hero() {
 
             <div className="relative z-20 container mx-auto px-4 text-center">
                 <div className="overflow-hidden mb-6">
-                    <h1 ref={headlineRef} className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight transform translate-y-full">
-                        20년 신뢰의 이름,<br />
-                        식자재 유통의 <span className="text-brand-yellow">표준</span>을 세우다.
+                    <h1 ref={headlineRef} className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight transform translate-y-full tracking-tight">
+                        신선식재는 <span className="text-brand-yellow">직접 사입</span>으로,<br className="hidden md:block" />
+                        단가는 <span className="text-brand-yellow">투명 공개</span>로.
                     </h1>
                 </div>
                 <div ref={subRef} className="space-y-8">
-                    <p className="text-lg md:text-xl text-gray-200 font-light">
-                        가락시장 직매입 · 주 6회 새벽배송 · 매입가 공개
+                    <p className="text-lg md:text-xl text-gray-200 font-light leading-relaxed">
+                        매일 새벽 가락시장 직매입 · 실매입가 기반 고정마진<br />
+                        야채·쌀·공산품·냉동/냉장까지 원스톱 공급하는<br className="hidden md:block" />
+                        경기북부 식자재 파트너입니다.
                     </p>
-                    <div className="flex flex-col sm:flex-row justify-center gap-4">
+                    <div className="flex flex-col md:flex-row justify-center gap-4 max-w-md mx-auto md:max-w-none">
                         <Link
                             href="#contact"
-                            className="px-8 py-4 bg-brand-yellow text-brand-gray-900 font-bold rounded-lg hover:bg-yellow-300 transition-all duration-300 shadow-lg hover:shadow-yellow-400/50 hover:scale-105 active:scale-95"
+                            className="w-full md:w-auto px-8 py-4 bg-brand-emerald-600 text-white font-bold rounded-xl hover:bg-brand-emerald-500 transition-all duration-300 shadow-lg hover:shadow-brand-emerald-500/30 flex items-center justify-center gap-2"
                         >
-                            견적 요청하기
+                            무료 견적 요청
+                            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
                         </Link>
-                        <a
-                            href="tel:010-8215-6737"
-                            className="px-8 py-4 bg-white/10 backdrop-blur-sm border border-white/30 text-white font-medium rounded-lg hover:bg-white/20 transition-all duration-300 hover:scale-105 active:scale-95"
-                        >
-                            전화 문의 010-8215-6737
-                        </a>
+                        <div className="flex gap-4 w-full md:w-auto">
+                            <a
+                                href="#"
+                                className="flex-1 md:flex-none px-6 py-4 bg-brand-yellow text-brand-gray-900 font-bold rounded-xl hover:bg-yellow-300 transition-all duration-300 shadow-lg flex items-center justify-center gap-2"
+                            >
+                                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 3c5.52 0 10 3.58 10 8s-4.48 8-10 8c-1.53 0-3-.28-4.38-.78-.96.47-3.27 1.6-3.46 1.67-.24.09-.45-.06-.37-.28.11-.29.89-2.22.97-2.43C3.44 15.61 2 13.43 2 11c0-4.42 4.48-8 10-8z" /></svg>
+                                카카오 상담
+                            </a>
+                            <a
+                                href="tel:010-8215-6737"
+                                className="flex-1 md:flex-none px-6 py-4 bg-white/10 backdrop-blur-sm border border-white/30 text-white font-medium rounded-xl hover:bg-white/20 transition-all duration-300 flex items-center justify-center gap-2"
+                            >
+                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" /></svg>
+                                전화 문의
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>

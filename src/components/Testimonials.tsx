@@ -39,8 +39,25 @@ export default function Testimonials() {
 
 
 
+    useGSAP(() => {
+        if (cardsRef.current && containerRef.current) {
+            gsap.from(cardsRef.current.children, {
+                scrollTrigger: {
+                    trigger: containerRef.current,
+                    start: 'top 70%',
+                },
+                y: 50,
+                opacity: 0,
+                duration: 0.8,
+                stagger: 0.2,
+                ease: 'power3.out',
+                clearProps: 'all', // Clear inline styles after animation
+            });
+        }
+    }, { scope: containerRef });
+
     return (
-        <section className="py-24 bg-white border-b border-gray-100">
+        <section ref={containerRef} className="py-24 bg-white border-b border-gray-100">
             <div className="container mx-auto px-4">
                 <div className="text-center mb-16">
                     <p className="text-brand-emerald-600 text-sm font-bold tracking-widest uppercase mb-2">
@@ -54,7 +71,7 @@ export default function Testimonials() {
                     </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+                <div ref={cardsRef} className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
                     {testimonials.map((item, index) => (
                         <div
                             key={index}
