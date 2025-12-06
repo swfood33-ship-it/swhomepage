@@ -5,7 +5,6 @@ import { useRef } from 'react';
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
 import SiteHeader from '@/components/SiteHeader';
-import SiteFooter from '@/components/SiteFooter';
 import Link from 'next/link';
 import GuideSlider from '@/components/GuideSlider';
 
@@ -123,6 +122,7 @@ export default function GuidePage() {
                                     </Link>
                                 </div>
                             </div>
+
                         </div>
                     </section>
 
@@ -154,10 +154,10 @@ export default function GuidePage() {
                                 지금 바로 상담 신청하기
                             </Link>
                         </div>
-                    </section>
+                    </section >
 
-                </div>
-            </main>
-        </div>
+                </div >
+            </main >
+        </div >
     );
 }

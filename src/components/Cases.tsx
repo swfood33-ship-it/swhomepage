@@ -90,6 +90,18 @@ export default function Cases() {
                         </div>
                     ))}
                 </div>
+
+                <div className="text-center mt-12">
+                    <a
+                        href="/cases"
+                        className="inline-flex items-center gap-2 px-8 py-4 bg-brand-emerald-600 text-white font-bold rounded-xl hover:bg-brand-emerald-700 transition-all shadow-lg hover:shadow-xl"
+                    >
+                        더 많은 성공 사례 보기
+                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                        </svg>
+                    </a>
+                </div>
             </div>
         </section>
     );

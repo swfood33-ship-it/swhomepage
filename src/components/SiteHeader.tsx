@@ -23,27 +23,36 @@ export default function SiteHeader() {
     return (
         <header className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-md border-b border-gray-100 h-16 flex items-center">
             <div className="container mx-auto px-4 flex justify-between items-center">
-                <Link href="/" className="text-2xl font-bold text-brand-emerald-900 z-50 relative">
+                <Link href="/" className="text-2xl font-bold text-brand-emerald-800 z-50 relative">
                     성원식자재
                 </Link>
 
                 {/* Desktop Nav */}
                 <nav className="hidden md:flex space-x-6 lg:space-x-8">
                     <Link href="/company" className="text-gray-600 hover:text-brand-emerald-600 transition-colors font-medium">회사소개</Link>
+                    <Link href="/why-us" className="text-gray-600 hover:text-brand-emerald-600 transition-colors font-medium">경쟁력</Link>
+                    <Link href="/cases" className="text-gray-600 hover:text-brand-emerald-600 transition-colors font-medium">성공사례</Link>
                     <Link href="/guide" className="text-gray-600 hover:text-brand-emerald-600 transition-colors font-medium">이용 방법</Link>
                     <Link href="/pricing" className="text-brand-emerald-700 font-bold hover:text-brand-emerald-900 transition-colors">매입가 공개</Link>
                     <Link href="/diagnosis" className="text-brand-emerald-700 font-bold hover:text-brand-emerald-900 transition-colors">무료 자가 진단</Link>
                     <Link href="https://blog.naver.com/lki4234" target="_blank" className="text-gray-600 hover:text-brand-emerald-600 transition-colors font-medium">블로그</Link>
-                    <Link href="/#contact" className="text-gray-600 hover:text-brand-emerald-600 transition-colors font-medium">견적 문의</Link>
                 </nav>
 
                 {/* Desktop CTA */}
-                <a
-                    href="tel:010-8215-6737"
-                    className="hidden md:block bg-brand-emerald text-white px-4 py-2 rounded-md font-medium hover:bg-brand-emerald-700 transition-all duration-300 hover:shadow-lg hover:shadow-brand-emerald-500/30 hover:scale-105 active:scale-95"
-                >
-                    전화 문의
-                </a>
+                <div className="hidden md:flex items-center gap-3">
+                    <a
+                        href="tel:010-8215-6737"
+                        className="text-brand-emerald-700 font-bold hover:text-brand-emerald-900 transition-colors"
+                    >
+                        010-8215-6737
+                    </a>
+                    <Link
+                        href="/#contact"
+                        className="bg-brand-emerald text-white px-5 py-2.5 rounded-md font-bold hover:bg-brand-emerald-700 transition-all duration-300 hover:shadow-lg hover:shadow-brand-emerald-500/30 hover:scale-105 active:scale-95"
+                    >
+                        무료 견적 받기
+                    </Link>
+                </div>
 
                 {/* Mobile Menu Button */}
                 <button
@@ -87,6 +96,12 @@ export default function SiteHeader() {
                                 <Link href="/company" className="text-3xl font-bold text-gray-900 hover:text-brand-emerald-600 transition-colors" onClick={() => setIsMobileMenuOpen(false)}>
                                     회사소개
                                 </Link>
+                                <Link href="/why-us" className="text-3xl font-bold text-gray-900 hover:text-brand-emerald-600 transition-colors" onClick={() => setIsMobileMenuOpen(false)}>
+                                    경쟁력
+                                </Link>
+                                <Link href="/cases" className="text-3xl font-bold text-gray-900 hover:text-brand-emerald-600 transition-colors" onClick={() => setIsMobileMenuOpen(false)}>
+                                    성공사례
+                                </Link>
                                 <Link href="/guide" className="text-3xl font-bold text-gray-900 hover:text-brand-emerald-600 transition-colors" onClick={() => setIsMobileMenuOpen(false)}>
                                     이용 방법
                                 </Link>
@@ -98,9 +113,6 @@ export default function SiteHeader() {
                                 </Link>
                                 <Link href="https://blog.naver.com/lki4234" target="_blank" className="text-3xl font-bold text-gray-900 hover:text-brand-emerald-600 transition-colors" onClick={() => setIsMobileMenuOpen(false)}>
                                     블로그
-                                </Link>
-                                <Link href="/#contact" className="text-3xl font-bold text-gray-900 hover:text-brand-emerald-600 transition-colors" onClick={() => setIsMobileMenuOpen(false)}>
-                                    견적 문의
                                 </Link>
                             </nav>
                         </div>

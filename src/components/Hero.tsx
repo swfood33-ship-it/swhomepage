@@ -125,10 +125,10 @@ export default function Hero() {
 
             <div className="relative z-20 container mx-auto px-4 text-center">
                 <div className="overflow-hidden mb-6">
-                <h1    ref={headlineRef}    className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight transform translate-y-full tracking-tight text-white">
-                 20년 신뢰의 이름,<br />
-                 식자재 유통의 <span className="text-brand-yellow font-bold">표준</span>을 세우다.
-                </h1>
+                    <h1 ref={headlineRef} className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight transform translate-y-full tracking-tight text-white">
+                        20년 신뢰의 이름,<br />
+                        식자재 유통의 <span className="text-brand-yellow font-bold">표준</span>을 세우다.
+                    </h1>
                 </div>
                 <div ref={subRef} className="space-y-8">
                     <p className="text-lg md:text-xl text-gray-200 font-light leading-relaxed">
@@ -162,7 +162,28 @@ export default function Hero() {
                         </div>
                     </div>
                 </div>
+
+                {/* Trust Badges */}
+                <div className="mt-12 flex flex-wrap justify-center gap-4 md:gap-8 opacity-90">
+                    <div className="flex items-center gap-2 bg-black/20 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
+                        <span className="text-brand-yellow">✓</span>
+                        <span className="text-sm font-medium">HACCP 인증 시설</span>
+                    </div>
+                    <div className="flex items-center gap-2 bg-black/20 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
+                        <span className="text-brand-yellow">✓</span>
+                        <span className="text-sm font-medium">ISO 9001 인증</span>
+                    </div>
+                    <div className="flex items-center gap-2 bg-black/20 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
+                        <span className="text-brand-yellow">✓</span>
+                        <span className="text-sm font-medium">삼성웰스토리 협력사</span>
+                    </div>
+                    <div className="flex items-center gap-2 bg-black/20 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
+                        <span className="text-brand-yellow">✓</span>
+                        <span className="text-sm font-medium">일일 50톤 처리 역량</span>
+                    </div>
+                </div>
             </div>
+
 
             <div ref={scrollRef} className="absolute bottom-10 left-1/2 transform -translate-x-1/2 text-center z-20">
                 <p className="text-sm text-gray-300 mb-2">SCROLL</p>
@@ -170,6 +191,6 @@ export default function Hero() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
                 </svg>
             </div>
-        </section>
+        </section >
     );
 }

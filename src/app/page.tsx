@@ -18,8 +18,11 @@ import ManagerSection from '@/components/ManagerSection';
 import TeamGallery from '@/components/TeamGallery';
 import FAQ from '@/components/FAQ';
 import PriceDisclosureHighlight from '@/components/PriceDisclosureHighlight';
-import DiagnosisHighlight from '@/components/DiagnosisHighlight';
+import WhyUsTeaser from '@/components/WhyUsTeaser';
+import IndustrySolutions from '@/components/IndustrySolutions';
+import CalculatorTeaser from '@/components/CalculatorTeaser';
 import useMotion from "@/components/motion/useMotion";
+import ProblemSolution from "@/components/ProblemSolution";
 
 export default function Home() {
   useMotion(); // Register GSAP plugins
@@ -28,13 +31,15 @@ export default function Home() {
     <div className="flex flex-col w-full">
       <Hero />
       <PartnerMarquee />
-      <Problem />
+      <ProblemSolution />
       <Solution />
+      <WhyUsTeaser />
       <TeamGallery />
       <PriceDisclosureHighlight />
       <ProductGrid />
       <Cases />
-      <DiagnosisHighlight />
+      <IndustrySolutions />
+      <CalculatorTeaser />
       <DeliveryTimeline />
       <Testimonials />
       <ContactForm />
@@ -42,9 +47,7 @@ export default function Home() {
       {/* <ClientGrid /> */}
       {/* <PricingPolicy /> */}
       {/* <Numbers /> */}
-      {/* <Cases /> */}
       {/* <ManagerSection /> */}
-      {/* <TeamGallery /> */}
       {/* <BlogSection /> */}
     </div>
   );

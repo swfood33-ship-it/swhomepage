@@ -114,6 +114,1881 @@
       "score": 16,
       "id": "86623396-a111-48f6-b344-30921ec51a3b",
       "createdAt": "2025-12-01T00:56:02.020Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764931652095-KakaoTalk2025112812325624502.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "a11c1626-2931-4ba2-a1cc-b68f3d20d46f",
+      "createdAt": "2025-12-05T10:47:33.653Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764932102478-KakaoTalk2025112812325624502.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "35290b8b-b392-4dd6-a881-1411f4a0d78a",
+      "createdAt": "2025-12-05T10:55:04.015Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764932342647-KakaoTalk2025112812325624502.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "e5079b89-6797-4484-85d4-47a92023b3de",
+      "createdAt": "2025-12-05T10:59:04.182Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764932388670-KakaoTalk2025112812325624506.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "a3eb8a15-0512-4d82-8906-a59597b5133a",
+      "createdAt": "2025-12-05T10:59:50.351Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764933037458-KakaoTalk2025112812325624502.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "0739e0eb-d34d-435a-a3e4-92ce99c6596d",
+      "createdAt": "2025-12-05T11:10:38.995Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764935287105-test.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "6f4c93a1-ecc0-49db-82c7-8d92608668e2",
+      "createdAt": "2025-12-05T11:48:08.950Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764935332305-largetest.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "02aa2db9-520c-412e-b167-6fd8d784df60",
+      "createdAt": "2025-12-05T11:48:53.898Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764935467643-KakaoTalk2025112812325624505.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "a6b08ade-4528-455f-be89-2185a9e828f0",
+      "createdAt": "2025-12-05T11:51:09.166Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "rating": "good"
+      },
+      "score": 14,
+      "imagePath": "/uploads/receipts/1764982099702-KakaoTalk20251128123256245.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3200
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 21000
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 58000
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 45000
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7500
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 303000,
+          "savings": 51300,
+          "savingsRate": 14
+        }
+      },
+      "id": "9d5c20b1-2178-4bbc-a660-f32d5dec89c7",
+      "createdAt": "2025-12-06T00:48:21.236Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "fileNames": [
+          "demo_receipt.jpg"
+        ],
+        "industry": "restaurant",
+        "rating": "good"
+      },
+      "score": 15,
+      "imagePath": "/uploads/receipts/1764982605108-KakaoTalk2025112812325624504.jpg",
+      "analysisData": {
+        "items": [
+          {
+            "name": "대파 (1kg)",
+            "quantity": 5,
+            "price": 4500,
+            "sungwonPrice": 3825
+          },
+          {
+            "name": "양파 (15kg)",
+            "quantity": 1,
+            "price": 28000,
+            "sungwonPrice": 23800
+          },
+          {
+            "name": "식용유 (18L)",
+            "quantity": 2,
+            "price": 65000,
+            "sungwonPrice": 55250
+          },
+          {
+            "name": "쌀 (20kg)",
+            "quantity": 3,
+            "price": 52000,
+            "sungwonPrice": 44200
+          },
+          {
+            "name": "마늘 (1kg)",
+            "quantity": 2,
+            "price": 8900,
+            "sungwonPrice": 7565
+          }
+        ],
+        "summary": {
+          "totalOriginal": 354300,
+          "totalSungwon": 301155,
+          "savings": 53145,
+          "savingsRate": 15
+        }
+      },
+      "id": "a76e330d-c560-4661-b898-b441073e1ce0",
+      "createdAt": "2025-12-06T00:56:46.652Z"
+    },
+    {
+      "answers": {
+        "fileCount": 9,
+        "industry": "restaurant",
+        "rating": "good"
+      },
+      "score": 15,
+      "analysisData": {
+        "items": [
+          {
+            "id": "98c4487d-2954-484c-8b79-ede66f0d1d18",
+            "name": "식용유 (18L)",
+            "quantity": 1,
+            "price": 65000,
+            "originalPrice": 65000,
+            "sungwonPrice": 55977
+          },
+          {
+            "id": "c13fee9b-45df-4e84-a90d-6bdc7e1b9527",
+            "name": "밀가루 (20kg)",
+            "quantity": 1,
+            "price": 54000,
+            "originalPrice": 54000,
+            "sungwonPrice": 45991
+          },
+          {
+            "id": "8eb48760-227b-42eb-adf8-0cc53e245aa1",
+            "name": "설탕 (15kg)",
+            "quantity": 2,
+            "price": 42000,
+            "originalPrice": 42000,
+            "sungwonPrice": 34963
+          },
+          {
+            "id": "651de6c7-2cae-4856-bdd1-0ebf326ef544",
+            "name": "식용유 (18L)",
+            "quantity": 1,
+            "price": 65000,
+            "originalPrice": 65000,
+            "sungwonPrice": 56296
+          },
+          {
+            "id": "a07cf536-d439-4282-be65-57c9b11f6fa8",
+            "name": "밀가루 (20kg)",
+            "quantity": 1,
+            "price": 54000,
+            "originalPrice": 54000,
+            "sungwonPrice": 46770
+          },
+          {
+            "id": "42d955e2-115e-42f3-971e-58a4dee28047",
+            "name": "설탕 (15kg)",
+            "quantity": 2,
+            "price": 42000,
+            "originalPrice": 42000,
+            "sungwonPrice": 35459
+          },
+          {
+            "id": "aeeac97a-1e45-4fc3-bd19-0d28a7b1eae2",
+            "name": "식용유 (18L)",
+            "quantity": 1,
+            "price": 65000,
+            "originalPrice": 65000,
+            "sungwonPrice": 56276
+          },
+          {
+            "id": "6f4d2f35-4c96-4f3d-9430-3ab7c243dd55",
+            "name": "밀가루 (20kg)",
+            "quantity": 1,
+            "price": 54000,
+            "originalPrice": 54000,
+            "sungwonPrice": 45913
+          },
+          {
+            "id": "67b1362d-e43c-4511-aea0-93d2cd1c9eda",
+            "name": "설탕 (15kg)",
+            "quantity": 2,
+            "price": 42000,
+            "originalPrice": 42000,
+            "sungwonPrice": 35188
+          }
+        ],
+        "summary": {
+          "totalOriginal": 609000,
+          "totalSungwon": 518443,
+          "savings": 90557,
+          "savingsRate": 15
+        }
+      },
+      "id": "e07df01b-0404-4dcd-955b-5d362e81e29e",
+      "createdAt": "2025-12-06T03:01:40.492Z"
+    },
+    {
+      "answers": {
+        "fileCount": 3,
+        "industry": "restaurant",
+        "rating": "good"
+      },
+      "score": 16,
+      "analysisData": {
+        "items": [
+          {
+            "id": "328fbe6b-1efd-4e9f-89a0-2f641da28bcc",
+            "name": "양파",
+            "quantity": 1,
+            "price": 15000,
+            "originalPrice": 0,
+            "sungwonPrice": 12945
+          },
+          {
+            "id": "3b945b4c-e56c-44fc-9f8f-87a65f53ec98",
+            "name": "대파",
+            "quantity": 1,
+            "price": 2500,
+            "originalPrice": 10000,
+            "sungwonPrice": 2164
+          },
+          {
+            "id": "5fb7da26-d64b-4769-bbc6-52a17f9af6bf",
+            "name": "쌀",
+            "quantity": 1,
+            "price": 65000,
+            "originalPrice": 10000,
+            "sungwonPrice": 54541
+          }
+        ],
+        "summary": {
+          "totalOriginal": 82500,
+          "totalSungwon": 69650,
+          "savings": 12850,
+          "savingsRate": 16
+        }
+      },
+      "id": "626b9cab-009a-4616-abc7-ea8706e863e6",
+      "createdAt": "2025-12-06T03:11:33.230Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "industry": "restaurant",
+        "rating": "average"
+      },
+      "score": null,
+      "analysisData": {
+        "items": [
+          {
+            "id": "e3b92961-1fba-4834-9e48-2d462b5ed796",
+            "name": "",
+            "quantity": 1,
+            "price": 0,
+            "originalPrice": 0,
+            "sungwonPrice": 0
+          }
+        ],
+        "summary": {
+          "totalOriginal": 0,
+          "totalSungwon": 0,
+          "savings": 0,
+          "savingsRate": null
+        }
+      },
+      "imagePath": "",
+      "id": "8f6b71b6-1997-4a2e-a08a-4119c6ffa481",
+      "createdAt": "2025-12-06T03:16:17.542Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "industry": "restaurant",
+        "rating": "average"
+      },
+      "score": null,
+      "analysisData": {
+        "items": [
+          {
+            "id": "49141ec0-0d38-4cd4-9e6d-370fe48026d6",
+            "name": "",
+            "quantity": 1,
+            "price": 0,
+            "originalPrice": 0,
+            "sungwonPrice": 0
+          }
+        ],
+        "summary": {
+          "totalOriginal": 0,
+          "totalSungwon": 0,
+          "savings": 0,
+          "savingsRate": null
+        }
+      },
+      "imagePath": "/uploads/receipts/1764991153462-KakaoTalk20251128123256245.jpg,/uploads/receipts/1764991154503-KakaoTalk2025112812325624501.jpg,/uploads/receipts/1764991155548-KakaoTalk2025112812325624502.jpg",
+      "id": "32ccefcd-c46a-437d-88cc-a7a53cb2e875",
+      "createdAt": "2025-12-06T03:19:20.313Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "industry": "restaurant",
+        "rating": "average"
+      },
+      "score": null,
+      "analysisData": {
+        "items": [
+          {
+            "id": "48e17644-bf24-4f82-a8d0-559315483d3d",
+            "name": "",
+            "quantity": 1,
+            "price": 0,
+            "originalPrice": 0,
+            "sungwonPrice": 0
+          }
+        ],
+        "summary": {
+          "totalOriginal": 0,
+          "totalSungwon": 0,
+          "savings": 0,
+          "savingsRate": null
+        }
+      },
+      "imagePath": "/uploads/receipts/1764991316136-KakaoTalk20251128123256245.jpg,/uploads/receipts/1764991317182-KakaoTalk2025112812325624501.jpg,/uploads/receipts/1764991318223-KakaoTalk2025112812325624502.jpg",
+      "id": "6ae86a81-85ae-462b-b105-df60f1c2e954",
+      "createdAt": "2025-12-06T03:22:06.478Z"
+    },
+    {
+      "answers": {
+        "fileCount": 1,
+        "industry": "restaurant",
+        "rating": "average"
+      },
+      "score": null,
+      "analysisData": {
+        "items": [
+          {
+            "id": "db188f40-ad26-4814-9256-c30f6f4b9943",
+            "name": "",
+            "quantity": 1,
+            "price": 0,
+            "originalPrice": 0,
+            "sungwonPrice": 0
+          }
+        ],
+        "summary": {
+          "totalOriginal": 0,
+          "totalSungwon": 0,
+          "savings": 0,
+          "savingsRate": null
+        }
+      },
+      "imagePath": "/uploads/receipts/1764992386031-KakaoTalk2025112812325624503.jpg,/uploads/receipts/1764992387104-KakaoTalk2025112812325624504.jpg,/uploads/receipts/1764992388145-KakaoTalk2025112812325624505.jpg",
+      "id": "056be245-7801-4534-99ef-c7d426a96cac",
+      "createdAt": "2025-12-06T03:39:59.019Z"
+    },
+    {
+      "answers": {
+        "fileCount": 22,
+        "industry": "restaurant",
+        "rating": "good"
+      },
+      "score": 18,
+      "analysisData": {
+        "items": [
+          {
+            "id": "25f4cd16-b833-4af3-bd66-39d1898bd7d7",
+            "name": "게살",
+            "quantity": 2,
+            "price": 2,
+            "originalPrice": 2,
+            "sungwonPrice": 1
+          },
+          {
+            "id": "6b383574-fb39-49d3-aea8-6f13a9459bcc",
+            "name": "홍마늘",
+            "quantity": 1,
+            "price": 18,
+            "originalPrice": 18,
+            "sungwonPrice": 15
+          },
+          {
+            "id": "4594ae33-73f3-4730-8bff-541d89f8c89c",
+            "name": "김",
+            "quantity": 3,
+            "price": 2,
+            "originalPrice": 2,
+            "sungwonPrice": 1
+          },
+          {
+            "id": "6a2678a7-becd-4b16-a183-0451862c1f42",
+            "name": "펑리",
+            "quantity": 2,
+            "price": 30,
+            "originalPrice": 30,
+            "sungwonPrice": 25
+          },
+          {
+            "id": "409fffaf-4f64-4e28-b411-c05086ae60d3",
+            "name": "수박",
+            "quantity": 1,
+            "price": 11,
+            "originalPrice": 11,
+            "sungwonPrice": 9
+          },
+          {
+            "id": "a923c0f7-8095-490c-8546-24cfc267d16c",
+            "name": "콩나물",
+            "quantity": 3,
+            "price": 10,
+            "originalPrice": 10,
+            "sungwonPrice": 8
+          },
+          {
+            "id": "a2899620-4304-4558-bfe9-3dd3bcf683ae",
+            "name": "레몬",
+            "quantity": 3,
+            "price": 21,
+            "originalPrice": 21,
+            "sungwonPrice": 17
+          },
+          {
+            "id": "b3744a76-895f-460c-a506-9b38ef94c87a",
+            "name": "콩나물",
+            "quantity": 6,
+            "price": 2,
+            "originalPrice": 2,
+            "sungwonPrice": 1
+          },
+          {
+            "id": "7b46c138-23e3-436e-bb42-edcacaf214e0",
+            "name": "김치",
+            "quantity": 16,
+            "price": 2,
+            "originalPrice": 2,
+            "sungwonPrice": 1
+          },
+          {
+            "id": "e418331d-ecfb-4a59-9cc0-2ed1f4a45f4e",
+            "name": "돌김",
+            "quantity": 16,
+            "price": 9,
+            "originalPrice": 9,
+            "sungwonPrice": 7
+          },
+          {
+            "id": "8deb6734-b859-4c21-b14e-d2eccb60da90",
+            "name": "두부",
+            "quantity": 3,
+            "price": 2400,
+            "originalPrice": 2400,
+            "sungwonPrice": 1993
+          },
+          {
+            "id": "17993598-b748-4a6d-8672-5eb229cbb7ac",
+            "name": "채소",
+            "quantity": 18,
+            "price": 7,
+            "originalPrice": 7,
+            "sungwonPrice": 5
+          },
+          {
+            "id": "a158ea0b-9022-45d9-b426-0fcabed8f86b",
+            "name": "쌀",
+            "quantity": 1,
+            "price": 11,
+            "originalPrice": 11,
+            "sungwonPrice": 9
+          },
+          {
+            "id": "c39a2bd6-cff6-4f47-96e6-31bd02cf62b4",
+            "name": "토옥",
+            "quantity": 22,
+            "price": 2,
+            "originalPrice": 2,
+            "sungwonPrice": 1
+          },
+          {
+            "id": "1e10599c-fc58-4a04-abe4-d007f2745ed7",
+            "name": "도레",
+            "quantity": 1,
+            "price": 30,
+            "originalPrice": 30,
+            "sungwonPrice": 25
+          },
+          {
+            "id": "6f976931-c042-4ff4-ad36-00360748a9e3",
+            "name": "콩나물",
+            "quantity": 2,
+            "price": 2,
+            "originalPrice": 2,
+            "sungwonPrice": 1
+          },
+          {
+            "id": "a4af3bd5-10a9-4a51-9057-b301213b0513",
+            "name": "양파",
+            "quantity": 3,
+            "price": 10,
+            "originalPrice": 10,
+            "sungwonPrice": 8
+          },
+          {
+            "id": "39994b80-b639-4b97-9234-5e20e88b61a9",
+            "name": "감자",
+            "quantity": 10,
+            "price": 7,
+            "originalPrice": 7,
+            "sungwonPrice": 6
+          },
+          {
+            "id": "761a2c8e-3777-4c92-93bd-ddfcb3e9a830",
+            "name": "토마토",
+            "quantity": 16,
+            "price": 9,
+            "originalPrice": 9,
+            "sungwonPrice": 7
+          },
+          {
+            "id": "3cc0728f-f87d-4084-be7f-c9d4386d6f94",
+            "name": "가지",
+            "quantity": 1,
+            "price": 130,
+            "originalPrice": 130,
+            "sungwonPrice": 113
+          },
+          {
+            "id": "67004590-57ba-48a9-8571-460ca655f14e",
+            "name": "양배추",
+            "quantity": 1,
+            "price": 51,
+            "originalPrice": 51,
+            "sungwonPrice": 42
+          },
+          {
+            "id": "b7817fef-ba70-4e3f-8195-a303473b81b8",
+            "name": "두부",
+            "quantity": 19,
+            "price": 12,
+            "originalPrice": 12,
+            "sungwonPrice": 10
+          }
+        ],
+        "summary": {
+          "totalOriginal": 8448,
+          "totalSungwon": 6956,
+          "savings": 1492,
+          "savingsRate": 18
+        }
+      },
+      "imagePath": "/uploads/receipts/1764994190593-KakaoTalk20251128123256245.jpg,/uploads/receipts/1764994204390-KakaoTalk2025112812325624501.jpg,/uploads/receipts/1764994217497-KakaoTalk2025112812325624502.jpg",
+      "id": "bdbe90a8-22fc-4c0f-b3c3-32e7a5058b0a",
+      "createdAt": "2025-12-06T04:10:47.316Z"
+    },
+    {
+      "answers": {
+        "fileCount": 17,
+        "industry": "restaurant",
+        "rating": "good"
+      },
+      "score": 15,
+      "analysisData": {
+        "items": [
+          {
+            "id": "9b7bd49e-0a10-4b17-b1af-6ea4c8b91fa9",
+            "name": "천일/야채볶음밥",
+            "quantity": 2,
+            "price": 16368,
+            "originalPrice": 16368,
+            "sungwonPrice": 13879
+          },
+          {
+            "id": "a678d55a-e27a-4397-8476-3f4cb9f85cee",
+            "name": "돈데/이헬/1.8L",
+            "quantity": 1,
+            "price": 7300,
+            "originalPrice": 7300,
+            "sungwonPrice": 6126
+          },
+          {
+            "id": "fa01b33d-f655-4073-91fa-ff783dfaa789",
+            "name": "돼지고기/전지/수입/불고기용",
+            "quantity": 6,
+            "price": 6636,
+            "originalPrice": 6636,
+            "sungwonPrice": 5724
+          },
+          {
+            "id": "318fb49b-e36f-4db2-9087-766ac96127b1",
+            "name": "오징어채/블럭/700g",
+            "quantity": 5,
+            "price": 6100,
+            "originalPrice": 6100,
+            "sungwonPrice": 5293
+          },
+          {
+            "id": "d603b7d5-1887-4bcb-88d4-a0fa4be3da91",
+            "name": "본성/진공밥떡/1.5",
+            "quantity": 5,
+            "price": 2780,
+            "originalPrice": 2780,
+            "sungwonPrice": 2387
+          },
+          {
+            "id": "087615a0-0a4a-4aa8-a811-9089699ddeb6",
+            "name": "알배기/수입/4kg/박스",
+            "quantity": 1,
+            "price": 17700,
+            "originalPrice": 17700,
+            "sungwonPrice": 15354
+          },
+          {
+            "id": "5c0b998f-2c4c-4dae-bfa1-7edeb6b3abf6",
+            "name": "냉동돈육지",
+            "quantity": 1,
+            "price": 88000,
+            "originalPrice": 88000,
+            "sungwonPrice": 76333
+          },
+          {
+            "id": "1c6feafe-d052-407a-89c8-001377961b0f",
+            "name": "냉장냉동고래이",
+            "quantity": 2,
+            "price": 4500,
+            "originalPrice": 4500,
+            "sungwonPrice": 3860
+          },
+          {
+            "id": "1c9274aa-73f9-4cdf-9b68-c7ddcdf9938d",
+            "name": "냉장선어대구",
+            "quantity": 2,
+            "price": 42000,
+            "originalPrice": 42000,
+            "sungwonPrice": 35522
+          },
+          {
+            "id": "46e46555-d674-497c-aa0a-f06f7826a6ac",
+            "name": "혼합추출/쟁반",
+            "quantity": 2,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7689
+          },
+          {
+            "id": "398db523-b936-4982-ade3-8fdc343814a8",
+            "name": "냉동[다슬기]슬라이스튀김(500G/팩)",
+            "quantity": 1,
+            "price": 9900,
+            "originalPrice": 9900,
+            "sungwonPrice": 8239
+          },
+          {
+            "id": "b02e94cb-eaa2-4687-b700-70c3ff828f64",
+            "name": "라면 대컵(1박스=큰컵 대다리)",
+            "quantity": 2,
+            "price": 13000,
+            "originalPrice": 13000,
+            "sungwonPrice": 10905
+          },
+          {
+            "id": "ad8aaa0c-ad95-4625-a6a2-33eaef142736",
+            "name": "냉동[다슬기] 냉각-블럭소스(1.8",
+            "quantity": 2,
+            "price": 26000,
+            "originalPrice": 26000,
+            "sungwonPrice": 22498
+          },
+          {
+            "id": "f1748406-0dc3-4dbb-9fce-a6aec093871e",
+            "name": "즉석카레소스(스봉용4kg)(왕)",
+            "quantity": 3,
+            "price": 21160,
+            "originalPrice": 21160,
+            "sungwonPrice": 17788
+          },
+          {
+            "id": "c3d3fe83-6454-4686-9129-827f14b0b62c",
+            "name": "[프림]혼합 두식자판 1kg(박스)",
+            "quantity": 2,
+            "price": 12400,
+            "originalPrice": 12400,
+            "sungwonPrice": 10774
+          },
+          {
+            "id": "539f0ec6-5085-49f9-a56d-b851cea07140",
+            "name": "다율원피루 석농장관(200ml)",
+            "quantity": 3,
+            "price": 1568,
+            "originalPrice": 1568,
+            "sungwonPrice": 1323
+          },
+          {
+            "id": "78c5b13c-2902-4447-bf1f-b54b2aa80579",
+            "name": "다율봉장품소스-소스(문*2kg)",
+            "quantity": 3,
+            "price": 16390,
+            "originalPrice": 16390,
+            "sungwonPrice": 13789
+          }
+        ],
+        "summary": {
+          "totalOriginal": 571006,
+          "totalSungwon": 487750,
+          "savings": 83256,
+          "savingsRate": 15
+        }
+      },
+      "imagePath": "/uploads/receipts/1764994273223-KakaoTalk2025112812325624503.jpg,/uploads/receipts/1764994295727-KakaoTalk2025112812325624504.jpg,/uploads/receipts/1764994308886-KakaoTalk2025112812325624505.jpg",
+      "id": "3650e28d-3b8f-47fd-878a-d8d48224a951",
+      "createdAt": "2025-12-06T04:12:21.326Z"
+    },
+    {
+      "answers": {
+        "fileCount": 17,
+        "industry": "restaurant",
+        "rating": "critical"
+      },
+      "score": 18,
+      "analysisData": {
+        "items": [
+          {
+            "id": "ad9d9907-1fa2-455f-90fc-c3d02b78ccfc",
+            "name": "콩나물",
+            "quantity": 2,
+            "price": 7000,
+            "originalPrice": 2000,
+            "sungwonPrice": 5889,
+            "isRealPrice": false
+          },
+          {
+            "id": "337e1c97-0d4c-4e8d-a59d-8f0d370c9caf",
+            "name": "무",
+            "quantity": 3,
+            "price": 1000,
+            "originalPrice": 1000,
+            "sungwonPrice": 853,
+            "isRealPrice": false
+          },
+          {
+            "id": "e45cffe9-2fc1-4647-9b7c-e1ddfcc0e237",
+            "name": "감자",
+            "quantity": 1,
+            "price": 7000,
+            "originalPrice": 7000,
+            "sungwonPrice": 6007,
+            "isRealPrice": false
+          },
+          {
+            "id": "3a90de1b-bc76-4b39-ab8e-fd895729c91b",
+            "name": "당근",
+            "quantity": 1,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7735,
+            "isRealPrice": false
+          },
+          {
+            "id": "5e585138-ba38-4408-8808-064656bc0e64",
+            "name": "양배추",
+            "quantity": 1,
+            "price": 5000,
+            "originalPrice": 5000,
+            "sungwonPrice": 4273,
+            "isRealPrice": false
+          },
+          {
+            "id": "1abb2436-d251-4990-8b30-b1403149dec5",
+            "name": "토마토",
+            "quantity": 10,
+            "price": 1000,
+            "originalPrice": 1000,
+            "sungwonPrice": 856,
+            "isRealPrice": false
+          },
+          {
+            "id": "63ab2934-2ddf-4576-8c1a-a30d0b887498",
+            "name": "냉동돈육지육(유통)국내산",
+            "quantity": 1,
+            "price": 88000,
+            "originalPrice": 88000,
+            "sungwonPrice": 75525,
+            "isRealPrice": false
+          },
+          {
+            "id": "c5a0ec78-cc37-4710-8217-32a2eac287a6",
+            "name": "냉동냉동크래미",
+            "quantity": 1,
+            "price": 8500,
+            "originalPrice": 8500,
+            "sungwonPrice": 7213,
+            "isRealPrice": false
+          },
+          {
+            "id": "7694b755-6fab-4410-96ca-2d08e8d05748",
+            "name": "냉장냉동식구",
+            "quantity": 2,
+            "price": 42000,
+            "originalPrice": 42000,
+            "sungwonPrice": 35398,
+            "isRealPrice": false
+          },
+          {
+            "id": "6be06173-755c-4520-829a-cab66bee40f2",
+            "name": "손수제비/떡국자투",
+            "quantity": 2,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7527,
+            "isRealPrice": false
+          },
+          {
+            "id": "bef5dcfa-9c6c-4883-b35c-687439114221",
+            "name": "냉동 (다농) 소불고기 (500G/팩)",
+            "quantity": 1,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7559,
+            "isRealPrice": false
+          },
+          {
+            "id": "8d19fcf5-0bbe-41f3-a59d-e8e9a760a2cd",
+            "name": "라면 대마미 (한국고 대 마미)",
+            "quantity": 2,
+            "price": 13000,
+            "originalPrice": 13000,
+            "sungwonPrice": 11049,
+            "isRealPrice": false
+          },
+          {
+            "id": "042b9a31-53ec-45c6-80b4-6ff1e8829773",
+            "name": "냉동 (다농) 냉동 보쌈소스 (1.8",
+            "quantity": 2,
+            "price": 3000,
+            "originalPrice": 3000,
+            "sungwonPrice": 2608,
+            "isRealPrice": false
+          },
+          {
+            "id": "6bde437c-4f48-4f4c-8f31-2a03e24dd5d2",
+            "name": "즉석카레소스 (봉수4kg) (황남)",
+            "quantity": 3,
+            "price": 2200,
+            "originalPrice": 2200,
+            "sungwonPrice": 1859,
+            "isRealPrice": false
+          },
+          {
+            "id": "9be8773a-c217-4d36-aebe-9490e6fa012f",
+            "name": "[네페라] 토마루 식자재 1kg (반)",
+            "quantity": 3,
+            "price": 12400,
+            "originalPrice": 12400,
+            "sungwonPrice": 10777,
+            "isRealPrice": false
+          },
+          {
+            "id": "3c03c965-6436-467d-8488-8a6daef0bc1a",
+            "name": "미정불 맛 샘 장관 (200ml)",
+            "quantity": 3,
+            "price": 1154,
+            "originalPrice": 1154,
+            "sungwonPrice": 959,
+            "isRealPrice": false
+          },
+          {
+            "id": "3e3a5732-06f8-42ae-a954-455a9ca23800",
+            "name": "다농 핫플스소스 (패트 2kg)",
+            "quantity": 3,
+            "price": 16390,
+            "originalPrice": 16390,
+            "sungwonPrice": 13607,
+            "isRealPrice": false
+          }
+        ],
+        "summary": {
+          "totalOriginal": 383932,
+          "totalSungwon": 325979,
+          "savings": 57953,
+          "savingsRate": 15,
+          "priceDifference": 18,
+          "rating": "critical",
+          "ratingLabel": "매우 심각"
+        }
+      },
+      "imagePath": "/uploads/receipts/1764996597036-KakaoTalk2025112812325624502.jpg,/uploads/receipts/1764996615041-KakaoTalk2025112812325624504.jpg,/uploads/receipts/1764996625617-KakaoTalk2025112812325624505.jpg",
+      "id": "40339ee3-d206-4d79-9c46-1c03c9e1bd0c",
+      "createdAt": "2025-12-06T04:51:07.849Z"
+    },
+    {
+      "answers": {
+        "fileCount": 19,
+        "industry": "restaurant",
+        "rating": "critical"
+      },
+      "score": 18,
+      "analysisData": {
+        "items": [
+          {
+            "id": "682cb3b3-c5c4-475a-b62a-c01491898410",
+            "name": "콩나물",
+            "quantity": 2,
+            "price": 2000,
+            "originalPrice": 2000,
+            "sungwonPrice": 1710,
+            "isRealPrice": false
+          },
+          {
+            "id": "d6fade5e-41e8-4672-a2b0-738aadba3743",
+            "name": "팽이",
+            "quantity": 3,
+            "price": 1200,
+            "originalPrice": 1200,
+            "sungwonPrice": 1041,
+            "isRealPrice": false
+          },
+          {
+            "id": "8279bd48-7722-4e21-b9fc-3af01adef337",
+            "name": "감자",
+            "quantity": 1,
+            "price": 700,
+            "originalPrice": 700,
+            "sungwonPrice": 602,
+            "isRealPrice": false
+          },
+          {
+            "id": "6d8603f8-4957-4aae-8f29-2a30d6c674d9",
+            "name": "호박",
+            "quantity": 16,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7645,
+            "isRealPrice": false
+          },
+          {
+            "id": "72b3e52e-9f74-42b9-8882-7472ea1ae268",
+            "name": "양배추",
+            "quantity": 1,
+            "price": 1200,
+            "originalPrice": 1200,
+            "sungwonPrice": 1013,
+            "isRealPrice": false
+          },
+          {
+            "id": "d8c99d8e-3a71-4e5d-b003-25f8dc388ed5",
+            "name": "당근",
+            "quantity": 1,
+            "price": 1300,
+            "originalPrice": 1300,
+            "sungwonPrice": 1090,
+            "isRealPrice": false
+          },
+          {
+            "id": "00343411-3949-4733-9754-b713e24066cf",
+            "name": "오이",
+            "quantity": 18,
+            "price": 5000,
+            "originalPrice": 5000,
+            "sungwonPrice": 4223,
+            "isRealPrice": false
+          },
+          {
+            "id": "fb684944-479d-4074-a788-8499de1e9e71",
+            "name": "토마토",
+            "quantity": 10,
+            "price": 1200,
+            "originalPrice": 1200,
+            "sungwonPrice": 1020,
+            "isRealPrice": false
+          },
+          {
+            "id": "5cd4db03-7bd4-4f1a-a9a1-7d0e8691a681",
+            "name": "냉동돈두지(유혼)-국내산",
+            "quantity": 1,
+            "price": 88000,
+            "originalPrice": 88000,
+            "sungwonPrice": 73857,
+            "isRealPrice": false
+          },
+          {
+            "id": "1ef352ec-ccc5-49a6-b142-f654f48e7a56",
+            "name": "냉장냉동고래미",
+            "quantity": 2,
+            "price": 9500,
+            "originalPrice": 9500,
+            "sungwonPrice": 8264,
+            "isRealPrice": false
+          },
+          {
+            "id": "3e165653-b063-4822-8862-2a5bcb70e941",
+            "name": "냉장냉동선추구",
+            "quantity": 2,
+            "price": 42000,
+            "originalPrice": 42000,
+            "sungwonPrice": 34968,
+            "isRealPrice": false
+          },
+          {
+            "id": "dd29edd4-b8d9-411f-9c01-6aa3ed8613a7",
+            "name": "손삼추채/뒷궁채",
+            "quantity": 2,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7810,
+            "isRealPrice": false
+          },
+          {
+            "id": "e87becc8-6ab1-47e1-9648-acf64726290c",
+            "name": "냉동다슬비고기(500G/팩)",
+            "quantity": 1,
+            "price": 9900,
+            "originalPrice": 9900,
+            "sungwonPrice": 8337,
+            "isRealPrice": false
+          },
+          {
+            "id": "3b9e3247-c5dd-4a9f-b124-570fd04297b7",
+            "name": "라면다래기(만두콩라면다래기)",
+            "quantity": 2,
+            "price": 13000,
+            "originalPrice": 13000,
+            "sungwonPrice": 11075,
+            "isRealPrice": false
+          },
+          {
+            "id": "a6c4ae99-f974-43f4-99b9-b1c55c07f48c",
+            "name": "냉동다슬냉동다슬소스(1.8",
+            "quantity": 3,
+            "price": 3950,
+            "originalPrice": 3950,
+            "sungwonPrice": 3368,
+            "isRealPrice": false
+          },
+          {
+            "id": "dd2ac609-dbc4-4c58-9d8d-a17c86fdeb9e",
+            "name": "즉석커리소스(즉석4kg)(황)",
+            "quantity": 3,
+            "price": 19000,
+            "originalPrice": 19000,
+            "sungwonPrice": 16042,
+            "isRealPrice": false
+          },
+          {
+            "id": "d1d8a6b4-6717-4a13-bfa8-2692fd19aee5",
+            "name": "[메릴]로마두식자재2kg(반)",
+            "quantity": 2,
+            "price": 21160,
+            "originalPrice": 21160,
+            "sungwonPrice": 17855,
+            "isRealPrice": false
+          },
+          {
+            "id": "b813e6b6-766b-4fc1-a101-7b143813b397",
+            "name": "요매생이육수용량편(200ML)",
+            "quantity": 3,
+            "price": 15720,
+            "originalPrice": 15720,
+            "sungwonPrice": 13228,
+            "isRealPrice": false
+          },
+          {
+            "id": "c10ae7be-cb69-44fb-9c31-2941ea839f70",
+            "name": "다슬방향족소스양념2kg",
+            "quantity": 3,
+            "price": 16390,
+            "originalPrice": 16390,
+            "sungwonPrice": 13686,
+            "isRealPrice": false
+          }
+        ],
+        "summary": {
+          "totalOriginal": 709200,
+          "totalSungwon": 598892,
+          "savings": 110308,
+          "savingsRate": 16,
+          "priceDifference": 18,
+          "rating": "critical",
+          "ratingLabel": "매우 심각"
+        }
+      },
+      "imagePath": "/uploads/receipts/1764997804823-KakaoTalk2025112812325624502.jpg,/uploads/receipts/1764997819453-KakaoTalk2025112812325624504.jpg,/uploads/receipts/1764997832867-KakaoTalk2025112812325624505.jpg",
+      "id": "b5168909-29fc-461a-b986-4531c540d14e",
+      "createdAt": "2025-12-06T05:10:51.950Z"
+    },
+    {
+      "answers": {
+        "fileCount": 18,
+        "rating": "critical"
+      },
+      "score": 18,
+      "analysisData": {
+        "items": [
+          {
+            "id": "8dcb6c32-1fac-40b4-87fb-35b9e6da60d8",
+            "name": "콩나물",
+            "quantity": 2,
+            "price": 2,
+            "originalPrice": 2,
+            "sungwonPrice": 1,
+            "isRealPrice": false
+          },
+          {
+            "id": "2931b847-1a01-4c2c-ae29-02a5f72957bf",
+            "name": "감자",
+            "quantity": 3,
+            "price": 10,
+            "originalPrice": 10,
+            "sungwonPrice": 8,
+            "isRealPrice": false
+          },
+          {
+            "id": "71d7ff9e-36b7-41e3-a79c-be3bbb2c704d",
+            "name": "가지",
+            "quantity": 1,
+            "price": 7,
+            "originalPrice": 7,
+            "sungwonPrice": 6,
+            "isRealPrice": false
+          },
+          {
+            "id": "aa3ed22a-313c-4996-a4f1-571c66a26259",
+            "name": "호박",
+            "quantity": 16,
+            "price": 9,
+            "originalPrice": 9,
+            "sungwonPrice": 7,
+            "isRealPrice": false
+          },
+          {
+            "id": "0d14e313-49fc-44da-875b-811e9d6741d0",
+            "name": "어린이",
+            "quantity": 1,
+            "price": 30,
+            "originalPrice": 30,
+            "sungwonPrice": 25,
+            "isRealPrice": false
+          },
+          {
+            "id": "b1ba1b91-9b9b-4e8e-b992-29f93d6a02ac",
+            "name": "양배추",
+            "quantity": 16,
+            "price": 5,
+            "originalPrice": 5,
+            "sungwonPrice": 4,
+            "isRealPrice": false
+          },
+          {
+            "id": "bfbdb16c-8ebd-442b-811f-05e34be04767",
+            "name": "두릅",
+            "quantity": 19,
+            "price": 12,
+            "originalPrice": 12,
+            "sungwonPrice": 10,
+            "isRealPrice": false
+          },
+          {
+            "id": "79277174-3f8c-45e7-8a7c-b483ed05b9a3",
+            "name": "냉동돈육지육(국내산)",
+            "quantity": 1,
+            "price": 88000,
+            "originalPrice": 88000,
+            "sungwonPrice": 73718,
+            "isRealPrice": false
+          },
+          {
+            "id": "2c8133b4-ef9a-40b0-8cfc-8226ef2e5c31",
+            "name": "냉장냉동크래미",
+            "quantity": 1,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7719,
+            "isRealPrice": false
+          },
+          {
+            "id": "6466b8bf-f0a9-409f-a96b-aedc8b398b7a",
+            "name": "냉장냉동삼각수",
+            "quantity": 2,
+            "price": 42000,
+            "originalPrice": 42000,
+            "sungwonPrice": 35396,
+            "isRealPrice": false
+          },
+          {
+            "id": "09a912ea-1d73-4dda-a4f9-3fe386c1c2dc",
+            "name": "육즙추출기/생지육",
+            "quantity": 2,
+            "price": 9500,
+            "originalPrice": 9500,
+            "sungwonPrice": 8236,
+            "isRealPrice": false
+          },
+          {
+            "id": "302f6f70-3d27-4060-a71e-42989546c8dd",
+            "name": "냉동[다놔]소불고기(500G/팩)",
+            "quantity": 1,
+            "price": 9900,
+            "originalPrice": 9900,
+            "sungwonPrice": 8233,
+            "isRealPrice": false
+          },
+          {
+            "id": "29ba0e03-84d3-441a-8232-a5cdccdcea02",
+            "name": "라면 대회기(한농몰 대머기)",
+            "quantity": 2,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7624,
+            "isRealPrice": false
+          },
+          {
+            "id": "81bdab42-d964-43e4-a0fc-7868ff87c6b8",
+            "name": "냉동[다놔] 냉우동-엉분소(1.8",
+            "quantity": 1,
+            "price": 2900,
+            "originalPrice": 2900,
+            "sungwonPrice": 2473,
+            "isRealPrice": false
+          },
+          {
+            "id": "f93e1f4e-d5e0-4a76-b51b-69b6a6200e35",
+            "name": "즉석카레소스(분수4kg)(왕)",
+            "quantity": 3,
+            "price": 3160,
+            "originalPrice": 3160,
+            "sungwonPrice": 2693,
+            "isRealPrice": false
+          },
+          {
+            "id": "b3d7bccc-8797-42a4-abac-72c75f82a208",
+            "name": "[인테리]환투식자재용 1kg(박스)",
+            "quantity": 2,
+            "price": 12100,
+            "originalPrice": 12100,
+            "sungwonPrice": 10274,
+            "isRealPrice": false
+          },
+          {
+            "id": "a4213ee6-53ae-468f-8969-05fc54c1ab2a",
+            "name": "미소된장된시육19장관 (200ml)",
+            "quantity": 3,
+            "price": 3000,
+            "originalPrice": 3000,
+            "sungwonPrice": 2548,
+            "isRealPrice": false
+          },
+          {
+            "id": "291cc7f7-6c74-4dc5-b716-eb39572f8a54",
+            "name": "다농짬뽕소스소스(볶음2kg)",
+            "quantity": 3,
+            "price": 16390,
+            "originalPrice": 16390,
+            "sungwonPrice": 14243,
+            "isRealPrice": false
+          }
+        ],
+        "summary": {
+          "totalOriginal": 323173,
+          "totalSungwon": 274078,
+          "savings": 49095,
+          "savingsRate": 15,
+          "priceDifference": 18,
+          "rating": "critical",
+          "ratingLabel": "매우 심각"
+        }
+      },
+      "imagePath": "/uploads/receipts/1764998423116-KakaoTalk2025112812325624502.jpg,/uploads/receipts/1764998440718-KakaoTalk2025112812325624504.jpg,/uploads/receipts/1764998453089-KakaoTalk2025112812325624505.jpg",
+      "id": "002bd704-577b-4155-ba21-6622e5406109",
+      "createdAt": "2025-12-06T05:21:09.726Z"
+    },
+    {
+      "answers": {
+        "fileCount": 17,
+        "industry": "한식",
+        "rating": "critical"
+      },
+      "score": 12,
+      "analysisData": {
+        "items": [
+          {
+            "id": "b820a951-4c0e-4a31-a049-fef48a21ad71",
+            "name": "콩나물",
+            "quantity": 2,
+            "price": 2000,
+            "originalPrice": 2000,
+            "sungwonPrice": 1732,
+            "isRealPrice": false
+          },
+          {
+            "id": "1357a16c-222b-42f0-a48e-5039f0468293",
+            "name": "감자",
+            "quantity": 3,
+            "price": 10000,
+            "originalPrice": 10000,
+            "sungwonPrice": 8627,
+            "isRealPrice": false
+          },
+          {
+            "id": "2a61e28e-783f-4b8f-baac-e5fee5e3d2fd",
+            "name": "깻잎",
+            "quantity": 1,
+            "price": 7000,
+            "originalPrice": 7000,
+            "sungwonPrice": 5815,
+            "isRealPrice": false
+          },
+          {
+            "id": "e7fbe71d-d937-4f28-a81b-171d5d557624",
+            "name": "토마토",
+            "quantity": 16,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7552,
+            "isRealPrice": false
+          },
+          {
+            "id": "ffa6e4df-08cd-4135-ab3c-f93c72b21208",
+            "name": "양파",
+            "quantity": 15,
+            "price": 5000,
+            "originalPrice": 5000,
+            "sungwonPrice": 4155,
+            "isRealPrice": false
+          },
+          {
+            "id": "f9c541f9-41cd-44fe-a43f-42db2bbc5ede",
+            "name": "두부",
+            "quantity": 10,
+            "price": 10000,
+            "originalPrice": 10000,
+            "sungwonPrice": 8645,
+            "isRealPrice": false
+          },
+          {
+            "id": "5810c0cf-ea63-45e3-9f6c-540217c0bc1d",
+            "name": "냉동돈육지(유통), 국내산",
+            "quantity": 1,
+            "price": 88000,
+            "originalPrice": 88000,
+            "sungwonPrice": 73921,
+            "isRealPrice": false
+          },
+          {
+            "id": "9c9fadd5-f70c-4639-b8f0-11188fb5a24f",
+            "name": "냉동냉동모크래미",
+            "quantity": 1,
+            "price": 8800,
+            "originalPrice": 8800,
+            "sungwonPrice": 7642,
+            "isRealPrice": false
+          },
+          {
+            "id": "3cbf6a09-7f0a-4537-97ce-0727308dbbc6",
+            "name": "냉동생돈육",
+            "quantity": 2,
+            "price": 42000,
+            "originalPrice": 42000,
+            "sungwonPrice": 36454,
+            "isRealPrice": false
+          },
+          {
+            "id": "d368854e-30a6-4df9-a1c5-48c92efe41e4",
+            "name": "혼합수산/젓갈등",
+            "quantity": 2,
+            "price": 9000,
+            "originalPrice": 9000,
+            "sungwonPrice": 7504,
+            "isRealPrice": false
+          },
+          {
+            "id": "f6ff5184-404e-4de4-8d31-bc5b3b6960ba",
+            "name": "냉동[다농]소불고기(500G/팩)",
+            "quantity": 1,
+            "price": 9900,
+            "originalPrice": 9900,
+            "sungwonPrice": 8389,
+            "isRealPrice": false
+          },
+          {
+            "id": "26d2c8e4-36c9-491a-9685-69de5105b09c",
+            "name": "라면 대그기(한국군 대그미)",
+            "quantity": 2,
+            "price": 13000,
+            "originalPrice": 13000,
+            "sungwonPrice": 11287,
+            "isRealPrice": false
+          },
+          {
+            "id": "08ee7b59-f6fe-4ad3-b5bb-a8479544c63c",
+            "name": "냉동[다농]냉우삼겹슬라이스(1.8",
+            "quantity": 3,
+            "price": 10800,
+            "originalPrice": 10800,
+            "sungwonPrice": 9183,
+            "isRealPrice": false
+          },
+          {
+            "id": "64439b35-873a-47a8-ad78-0f95577f11aa",
+            "name": "즉석카레소스(투입가4kg)(왕)",
+            "quantity": 3,
+            "price": 6348,
+            "originalPrice": 6348,
+            "sungwonPrice": 5442,
+            "isRealPrice": false
+          },
+          {
+            "id": "491cc908-2724-499d-881a-bcab5f8e43fe",
+            "name": "[메밀]튼튼한 식자재 1kg(반)",
+            "quantity": 3,
+            "price": 4213,
+            "originalPrice": 4213,
+            "sungwonPrice": 3590,
+            "isRealPrice": false
+          },
+          {
+            "id": "fb99abbf-b9e7-4a46-a84f-58ac0f8d631e",
+            "name": "즉석원팩 취생강칩(200ml)",
+            "quantity": 3,
+            "price": 4758,
+            "originalPrice": 4758,
+            "sungwonPrice": 3984,
+            "isRealPrice": false
+          },
+          {
+            "id": "1bdd8bdd-5b83-4d7a-b65e-605992ef2ecc",
+            "name": "다농팜초소스(냉우*2kg)",
+            "quantity": 3,
+            "price": 16390,
+            "originalPrice": 16390,
+            "sungwonPrice": 13768,
+            "isRealPrice": false
+          }
+        ],
+        "summary": {
+          "totalOriginal": 722227,
+          "totalSungwon": 613110,
+          "savings": 109117,
+          "savingsRate": 15,
+          "projectedSavings": 1510841,
+          "priceDifference": 12,
+          "rating": "critical",
+          "ratingLabel": "매우 심각",
+          "businessType": "한식",
+          "currentSupplier": "식자재마트",
+          "monthlyAmount": 10000000
+        }
+      },
+      "imagePath": "/uploads/receipts/1764998936282-KakaoTalk2025112812325624502.jpg,/uploads/receipts/1764998946875-KakaoTalk2025112812325624504.jpg,/uploads/receipts/1764998956001-KakaoTalk2025112812325624505.jpg",
+      "id": "c72bc07a-2685-4c24-a9d0-1c303d02ef8f",
+      "createdAt": "2025-12-06T05:29:29.275Z"
     }
   ]
 }

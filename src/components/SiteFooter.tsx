@@ -9,9 +9,23 @@ export default function SiteFooter() {
                     </div>
                     <div className="mt-4 md:mt-0 flex flex-col items-end gap-2">
                         <a href="tel:031-841-5000" className="text-xl font-bold text-brand-yellow">031-841-5000</a>
-                        <a href="/pricing" className="text-sm text-gray-400 hover:text-brand-yellow transition-colors underline">파트너 매입가 확인</a>
+                        <div className="flex gap-4 text-sm text-gray-400">
+                            <a href="/why-us" className="hover:text-brand-yellow transition-colors">경쟁력 비교</a>
+                            <a href="/cases" className="hover:text-brand-yellow transition-colors">성공사례</a>
+                            <a href="/pricing" className="hover:text-brand-yellow transition-colors underline">파트너 매입가 확인</a>
+                        </div>
                     </div>
                 </div>
+
+                {/* Trust Badges Footer */}
+                <div className="flex flex-wrap gap-4 mb-8 border-b border-gray-800 pb-8">
+                    <span className="bg-gray-800 text-gray-300 px-3 py-1 rounded-full text-xs font-medium">HACCP 인증</span>
+                    <span className="bg-gray-800 text-gray-300 px-3 py-1 rounded-full text-xs font-medium">ISO 9001</span>
+                    <span className="bg-gray-800 text-gray-300 px-3 py-1 rounded-full text-xs font-medium">삼성웰스토리 협력사</span>
+                    <span className="bg-gray-800 text-gray-300 px-3 py-1 rounded-full text-xs font-medium">일일 50톤 처리</span>
+                    <span className="bg-gray-800 text-gray-300 px-3 py-1 rounded-full text-xs font-medium">콜드체인 시스템</span>
+                </div>
+
                 <div className="border-t border-gray-800 pt-8 text-sm text-gray-400 space-y-1">
                     <p>상호명 : 성원식자재 | 대표자 : 김은정</p>
                     <p>사업자등록번호 : 127-46-39735 | 영업신고 : 제 2017-0285506 호</p>
